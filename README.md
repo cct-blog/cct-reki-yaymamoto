@@ -1,1 +1,1 @@
-# cct-reki-yaymamoto
+# Sample code for blog posts
